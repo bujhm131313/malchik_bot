@@ -20,7 +20,7 @@ def get_options(is_weekend: bool = False) -> List[str]:
             '20:00',
             '20:30',
             '21:00',
-            '21:30',
+            'ПАСУЮ, Я КАБЛУК',
         ]
     else:
         return [
@@ -32,7 +32,7 @@ def get_options(is_weekend: bool = False) -> List[str]:
             '20:00',
             '20:30',
             '21:00',
-            '21:30',
+            'ПАСУЮ, Я КАБЛУК',
         ]
 
 
