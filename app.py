@@ -50,5 +50,3 @@ def send_message():
         allows_multiple_answers=True,
         explanation='Время по Киеву, щеглы'
     )
-
-send_message()
